@@ -7,7 +7,7 @@
      3) should display errors to the user when the hour is more than 23
      4) should display errors to the user when the hour is less than 0
 
-   Executed 4 tests in 2 suites in 232ms
+   Executed 4 tests in 2 suites in 181ms
        0 passes
        4 failed
    
@@ -32,17 +32,17 @@
        186 |       self._callback.apply(self, arguments)
        187 |     }
        
-       at Request.<anonymous> (node_modules/request/request.js:1060:10)
+       at Request.<anonymous> (node_modules/request/request.js:1081:10)
        
-       1059 |     }
-       1060 |     self.emit('complete', response, response.body)
-       1061 |   })
+       1080 |     }
+       1081 |     self.emit('complete', response, response.body)
+       1082 |   })
        
-       at IncomingMessage.<anonymous> (node_modules/request/request.js:980:12)
+       at IncomingMessage.<anonymous> (node_modules/request/request.js:1001:12)
        
-       979 |     responseContent.once('end', function (chunk) {
-       980 |       self.emit('end', chunk)
-       981 |     })
+       1000 |     responseContent.once('end', function (chunk) {
+       1001 |       self.emit('end', chunk)
+       1002 |     })
        
        at endReadableNT (_stream_readable.js:921:12)
    
@@ -67,17 +67,17 @@
        186 |       self._callback.apply(self, arguments)
        187 |     }
        
-       at Request.<anonymous> (node_modules/request/request.js:1060:10)
+       at Request.<anonymous> (node_modules/request/request.js:1081:10)
        
-       1059 |     }
-       1060 |     self.emit('complete', response, response.body)
-       1061 |   })
+       1080 |     }
+       1081 |     self.emit('complete', response, response.body)
+       1082 |   })
        
-       at IncomingMessage.<anonymous> (node_modules/request/request.js:980:12)
+       at IncomingMessage.<anonymous> (node_modules/request/request.js:1001:12)
        
-       979 |     responseContent.once('end', function (chunk) {
-       980 |       self.emit('end', chunk)
-       981 |     })
+       1000 |     responseContent.once('end', function (chunk) {
+       1001 |       self.emit('end', chunk)
+       1002 |     })
        
        at endReadableNT (_stream_readable.js:921:12)
    
@@ -102,17 +102,17 @@
        186 |       self._callback.apply(self, arguments)
        187 |     }
        
-       at Request.<anonymous> (node_modules/request/request.js:1060:10)
+       at Request.<anonymous> (node_modules/request/request.js:1081:10)
        
-       1059 |     }
-       1060 |     self.emit('complete', response, response.body)
-       1061 |   })
+       1080 |     }
+       1081 |     self.emit('complete', response, response.body)
+       1082 |   })
        
-       at IncomingMessage.<anonymous> (node_modules/request/request.js:980:12)
+       at IncomingMessage.<anonymous> (node_modules/request/request.js:1001:12)
        
-       979 |     responseContent.once('end', function (chunk) {
-       980 |       self.emit('end', chunk)
-       981 |     })
+       1000 |     responseContent.once('end', function (chunk) {
+       1001 |       self.emit('end', chunk)
+       1002 |     })
        
        at endReadableNT (_stream_readable.js:921:12)
    
