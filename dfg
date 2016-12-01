@@ -1,0 +1,971 @@
+[33mcommit a404608cb4b3b171bc00330d3a118ef1162bd8b3[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Thu Dec 1 16:57:12 2016 +0000
+
+    Adam delete test.txt files
+
+[33mcommit 4ac949a3d57638ac01569483585a7cb2fef8713a[m
+Merge: a5275e9 5a851da
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Thu Dec 1 15:02:29 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit a5275e9e842f7b5e78c91bd8800876851fb0d82b[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Thu Dec 1 15:00:25 2016 +0000
+
+    Adam mocha validation
+
+[33mcommit 5a851da9037a008246e7d3a60f66a4ebe0ba396a[m
+Merge: 0516380 dbcf7cd
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 14:59:24 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit dbcf7cdf5247b9985dad49b01a1acd6bbb7fa59b[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Wed Nov 30 14:57:41 2016 +0000
+
+    Remove duplicate code
+
+[33mcommit 0516380e4a3a1d060c8102781ea58c0afaea23bd[m
+Merge: a605ec4 68f335c
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 14:38:15 2016 +0000
+
+    Merge branch 'master' of https://github.com/javaSurfer30773/mgt656-spring-2015-project
+
+[33mcommit 68f335c1c3c9d77c982a00dfd99eb402b596ce92[m
+Merge: df53624 df50976
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Wed Nov 30 09:38:07 2016 -0500
+
+    Merge pull request #3 from javaSurfer30773/adam-add-event-form-validation
+    
+    Adams add event form validation
+
+[33mcommit a605ec49470991e9d5a3fdfb57256ee5ce449fb9[m
+Merge: 006e963 df53624
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 14:30:04 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit df53624fa4a87bc5352d1367b48a644e44ba5427[m
+Merge: 4b14664 6892081
+Author: romangeographer <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 09:29:31 2016 -0500
+
+    Merge pull request #2 from javaSurfer30773/select-event
+    
+    Select event
+
+[33mcommit 006e963070b314c27819e3ae56449c000a971e8a[m
+Merge: 6892081 4b14664
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 14:23:03 2016 +0000
+
+    Merge branch 'master' of https://github.com/javaSurfer30773/mgt656-spring-2015-project
+
+[33mcommit 68920816b353ae7b4eae9e2ab990e4d16a4fd7b7[m
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 14:15:39 2016 +0000
+
+    working-event-selection
+
+[33mcommit 4b14664eb0167eec101aea6b3a79f2a15c26b28e[m
+Author: JLorson <judd.lorson@yale.edu>
+Date:   Wed Nov 30 14:12:53 2016 +0000
+
+    Add API Search
+
+[33mcommit c941298816dbfc1746e89d0b236180a5876df5b5[m
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Wed Nov 30 02:04:05 2016 +0000
+
+    select function
+
+[33mcommit b9fae9932b97c3a7802c67dbcb707ddd6825f82a[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Tue Nov 29 21:03:16 2016 +0000
+
+    add missing files
+
+[33mcommit 3abcfc51b26631d67ccd00d43ba5398e5a51662e[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Tue Nov 29 04:03:35 2016 +0000
+
+    accept RSVP from Yale IDs
+
+[33mcommit 5f6e24b7c002211727c0c4b95b01b4436f4ef751[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Tue Nov 29 02:06:29 2016 +0000
+
+    created event detail page
+
+[33mcommit d25edbe3f52b8f7863166b6bedcbcfa9a52d339c[m
+Merge: e887249 a18c565
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Thu Nov 24 20:20:07 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit df509764219a2db138b51a61df38cde2d04ffa10[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Mon Nov 21 19:45:12 2016 +0000
+
+    Adams add event form validation
+
+[33mcommit a18c565245c5f3ad7d69a3edb1f5624fee7f03fe[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Mon Nov 21 17:13:34 2016 +0000
+
+    added submit button again
+
+[33mcommit e887249843a264f0c52dac0d75710dfc8c7921a3[m
+Merge: 460cd18 591caa9
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Thu Nov 17 01:04:10 2016 +0000
+
+    Merge branch 'master' of github.com:javaSurfer30773/mgt656-spring-2015-project
+
+[33mcommit 591caa9ee246db02534aad4cb500fb72c0a1d3a2[m
+Merge: b20a5b2 a609c07
+Author: tagAce39866 <vaibhav.desai@yale.edu>
+Date:   Wed Nov 16 20:03:45 2016 -0500
+
+    Merge pull request #1 from javaSurfer30773/hide-old-events
+    
+    hide old events
+
+[33mcommit 460cd1827852204632769c75cdd9cc3ab867c103[m
+Merge: a609c07 b20a5b2
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Thu Nov 17 00:52:51 2016 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit a609c07c067b4e2b72481e453bfad7e66c14a828[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Thu Nov 17 00:32:58 2016 +0000
+
+    hide old events
+
+[33mcommit b20a5b21b396afe16e6d2ad39d97f23bcf225ae0[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Tue Nov 15 04:28:42 2016 +0000
+
+    Adam event sched updates
+
+[33mcommit dd69a7dbda7ba6a569932962bb085f7072ac39e2[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Fri Nov 11 04:45:05 2016 +0000
+
+    Add required fields to event submission form
+
+[33mcommit 527635fb9efb9625512f6e4032e5af259f843cc5[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Mon Nov 7 01:07:48 2016 +0000
+
+    add event links
+
+[33mcommit 08f492b72379badb15610bd864576484d1b478d9[m
+Author: Vaibhav Desai <vaibhav.desai@yale.edu>
+Date:   Mon Nov 7 00:29:23 2016 +0000
+
+    include list of events on homepage
+
+[33mcommit fe8822d174eeabb646f2044daed2644b285f645a[m
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Fri Nov 4 02:52:53 2016 +0000
+
+    Bootstrap-css
+
+[33mcommit cd5f3a51d3056fcdb6c0ea9837eaf10ba3e92750[m
+Author: Roman <roman.grigoryev@yale.edu>
+Date:   Thu Nov 3 20:02:58 2016 +0000
+
+    about page done
+
+[33mcommit 9be002db258cff337b224a1aced787018c2d3b8c[m
+Author: JLorson <judd.lorson@yale.edu>
+Date:   Thu Nov 3 12:05:33 2016 +0000
+
+    add team logo
+
+[33mcommit 9c1e327a58116db9ca433b01cc818e40b4849a66[m
+Author: JLorson <judd.lorson@yale.edu>
+Date:   Thu Nov 3 11:56:35 2016 +0000
+
+    Add links to about and home page in the footer
+
+[33mcommit cf304de4697075e09e44d2f8ad1f9b85c6fa98fc[m
+Merge: 25cf23f 5121baa
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Thu Nov 3 00:35:58 2016 +0000
+
+    Merge remote-tracking branch 'origin/test-text-change'
+
+[33mcommit 25cf23f6a1f8d30c77f188e604fa8e4b1c34cc43[m
+Author: javaSurfer30773 <adam.vance@yale.edu>
+Date:   Thu Nov 3 00:19:27 2016 +0000
+
+    Adam test text change
+
+[33mcommit 5121baa87976afa9ff8d8f9ac30a68630b436554[m
+Author: JLorson <judd.lorson@yale.edu>
+Date:   Wed Nov 2 23:57:07 2016 +0000
+
+    test git text change
+
+[33mcommit 5f60509400a4f756edb0dd076d0de891d2e1936d[m
+Merge: 4404d4c 713fed7
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Dec 5 06:38:55 2015 -0500
+
+    Merge pull request #143 from dhatch/master
+    
+    test.js: Improve test accuracy for new event validation.
+
+[33mcommit 713fed73b5b5a39f36593bf85fea422fa5a4b2f0[m
+Author: David Hatch <dhatch387@gmail.com>
+Date:   Fri Dec 4 18:11:10 2015 -0500
+
+    test.js: Improve test accuracy for new event validation.
+
+[33mcommit 4404d4c6f5f349e5ace2605061f9037efab2df55[m
+Merge: 7b6438f 07ab6a1
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 11 12:04:17 2015 -0500
+
+    Merge pull request #115 from dhatch/master
+    
+    Add tests for select input creation, correct RSVP error.
+
+[33mcommit 07ab6a1f4def94784598bc06a6651586c2469114[m
+Author: David Hatch <dhatch387@gmail.com>
+Date:   Wed Nov 11 12:01:15 2015 -0500
+
+    Add tests for select input on creation form.
+
+[33mcommit 477c72bf95699751d18eefcf4b9c08919b52f487[m
+Author: David Hatch <dhatch387@gmail.com>
+Date:   Wed Nov 11 10:56:58 2015 -0500
+
+    Correct RSVP test description.
+
+[33mcommit 7b6438f9ce4ff2fc75582fc8431e7565a79e30e0[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Sat Oct 31 12:51:44 2015 +0000
+
+    Fix misspelling
+
+[33mcommit 970b6250d3e1f42e0d25689f5120e8de102378b2[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Sat Oct 31 12:50:59 2015 +0000
+
+    Use defaultView instead of parentWindow in jsdom.
+    
+    See https://github.com/tmpvar/jsdom/blob/master/Changelog.md#400
+
+[33mcommit 5a56ac9a414468f3afb87756744fd0b96ca1150f[m
+Merge: 20b3df9 cf9ca73
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Oct 25 18:24:10 2015 -0400
+
+    Merge pull request #75 from kljensen/dep-fix
+    
+    Dep fix
+
+[33mcommit cf9ca7358fe465fc2d7a458dfbd42ca97e23b698[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Sun Oct 25 22:22:11 2015 +0000
+
+    Freeze deps
+
+[33mcommit a4e089af692aa11018c29b7bd858ffca55b20fae[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Sun Oct 25 22:21:59 2015 +0000
+
+    Fix deps by putting zombie in dev
+
+[33mcommit bf383e80cd03558cbc53353dcceb7f6d47f96003[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Sun Oct 25 22:13:32 2015 +0000
+
+    Update dependencies
+
+[33mcommit 20b3df9138a9e8e2d9e84a70c50ebb5140bf5f8b[m
+Merge: bf3172a 6dc8479
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Jan 31 21:17:52 2015 -0500
+
+    Merge pull request #8 from ozhao00/master
+    
+    Update repository path
+
+[33mcommit 6dc84798f1affb19edef1a667a8bcbfc39187b7e[m
+Author: ozhao00 <ozhao00@users.noreply.github.com>
+Date:   Sat Jan 31 21:06:28 2015 -0500
+
+    Update repository path
+
+[33mcommit bf3172af8494a9a670192f4f790fc22ce45ded9e[m
+Merge: abb5e4b 99317af
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Jan 31 20:31:53 2015 -0500
+
+    Merge pull request #7 from krishnan-srinivasan/master
+    
+    fixed logging of port number when running locally
+
+[33mcommit 99317afafc3f38102113550e8ade503ca138ff9c[m
+Author: krishnan-srinivasan <krishnan.srinivasan@yale.edu>
+Date:   Sat Jan 31 20:21:41 2015 -0500
+
+    fixed logging of port number when running locally
+
+[33mcommit abb5e4b0defa313b75ba5e5ec5e1c4e43a06a2c4[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Thu Jan 8 19:23:32 2015 +0000
+
+    Fix misc bugs in tests
+
+[33mcommit b84464d91576b9cb1b2cd7117f7902302bc1d47e[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Thu Jan 8 16:44:30 2015 +0000
+
+    Use negation instead of notOk method in chai
+
+[33mcommit bd1c3e58b55e0a1b41f4f9ec0e0963beb9bb90db[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Wed Jan 7 15:58:04 2015 +0000
+
+    Remove dependency on event model
+
+[33mcommit bc2b59831e2372525273ee6e087f8a2d2a051a2f[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Wed Jan 7 15:56:41 2015 +0000
+
+    Return 404 when an event cannot be found by id
+
+[33mcommit 1e869f2d64096dbfdd1224bb0b90a0564d9e046f[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Wed Jan 7 15:39:42 2015 +0000
+
+    Commit new project settings
+
+[33mcommit 9c899fb88444e449ced1ac63a52f1851d0df7176[m
+Merge: 62bd530 ac0ed6c
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Jan 7 06:29:50 2015 -0500
+
+    Merge pull request #3 from xavid/patch-2
+    
+    fix api search test
+
+[33mcommit ac0ed6c23dcd3a33636e301c1423f05cc464a5ba[m
+Author: David Johnson <xavid@users.noreply.github.com>
+Date:   Tue Jan 6 23:41:48 2015 -0500
+
+    fix api search test
+    
+    This was my bad, I introduced titleFound some time back; we reverted but missed this line.
+
+[33mcommit 62bd530d97e3b01ed76003d2f6807d0664aeb501[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Dec 19 13:52:41 2014 -0500
+
+    Add header and footer tests
+
+[33mcommit 45179c89c31d06e3091a86a6f8b8015db806bd02[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Dec 19 13:16:10 2014 -0500
+
+    Used a fixed port for testing
+
+[33mcommit 10234d173f153c63303731374fe811ceb2e52011[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Dec 19 13:15:56 2014 -0500
+
+    Ignore c9 project settings
+
+[33mcommit b3a97467b44671d0ae1fed8b331b795782870756[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Dec 15 13:00:03 2014 -0500
+
+    Add node version to package.json
+
+[33mcommit 7413dc52626ca412786a9c67819c76d68644167e[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Dec 15 11:52:36 2014 -0500
+
+    Make start-app.js work better on Heroku & C9
+
+[33mcommit 9c18d7873d7a65a5ba779973e752ce6e55993d60[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Dec 15 11:35:23 2014 -0500
+
+    Add a Procfile for Heroku
+
+[33mcommit f839489c3bf40236da785b4c4eb1fad2f8874b42[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Dec 12 16:49:02 2014 -0500
+
+    Add code so that tests can be run programmatically
+
+[33mcommit 8a9588e828774a1261ba6a940cd2471153aae92a[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Dec 4 19:53:58 2014 -0500
+
+    Correct the course number
+
+[33mcommit 16a81442d4c6b9e13b424b2e29a9b4a1f28f1915[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Wed Dec 3 22:00:24 2014 +0000
+
+    Fix PORT environment variable
+
+[33mcommit dc47835043c7dac0eab432907800abcbccfcdb98[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Wed Dec 3 21:56:38 2014 +0000
+
+    Change default command
+
+[33mcommit caa86d79de62c7c2319738dc0dc6c65c74f2d2e4[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Dec 3 03:06:36 2014 -0500
+
+    Add shrinkwrap file to lock down dependencies
+
+[33mcommit f0ffb313a196b1d84f849c0067af2436f426ee04[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Dec 2 14:25:37 2014 -0500
+
+    Revert "Update test.js"
+    
+    This reverts commit e55a69d8ff48b01880a2335df8b61c2d8247ee88.
+
+[33mcommit 2d14b81faeb50881cc6cb30dd64105cc1d4f3e51[m
+Merge: a0411b8 7c35e20
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Dec 2 14:23:44 2014 -0500
+
+    Merge branch 'master' of github.com:yale-mgt-656/mgt656-spring-2015-project
+
+[33mcommit 7c35e208f026b6f074fe08f9679cf3ed1aa6c8d5[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Tue Dec 2 19:19:29 2014 +0000
+
+    Fix gulp watch for cloud9
+
+[33mcommit a0411b88114251f3432e1170c6bfa77f0806a417[m
+Merge: 70810a1 e55a69d
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Dec 2 14:17:06 2014 -0500
+
+    Merge branch 'master' of git.yale.edu:mgt656/mgt656-full-project
+
+[33mcommit 70810a175a3523946d6fba60022006d44d3bc89c[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Dec 2 14:17:00 2014 -0500
+
+    JShint
+
+[33mcommit dc0d7c6dc3616c8fca042cbe843d23f0d6bb7d4c[m
+Author: Kyle L. Jensen <kljensen+cloud9@gmail.com>
+Date:   Tue Dec 2 19:07:34 2014 +0000
+
+    Update project to work on cloud9
+
+[33mcommit e55a69d8ff48b01880a2335df8b61c2d8247ee88[m
+Author: ojz2 <Olivia.Zhao@yale.edu>
+Date:   Sun Nov 30 11:09:59 2014 -0500
+
+    Update test.js
+
+[33mcommit b1ec4d2d665f00a1d508e1af8c943f3c697ee685[m
+Author: ojz2 <olivia.zhao@yale.edu>
+Date:   Fri Nov 14 18:30:46 2014 -0800
+
+    Add tests for New Event Creation Page
+
+[33mcommit 75dce151b32495654972ede82e7ddf538f963e6d[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 14 13:29:40 2014 -0500
+
+    Add test that ensures non Yale.edu rsvps are rejected
+
+[33mcommit 9d5b5883ffc2005c91aaede1badc1494b988201f[m
+Merge: e3de691 3069834
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 14 12:27:20 2014 -0500
+
+    Merge branch 'master' of git.yale.edu:mgt656/mgt656-full-project
+
+[33mcommit e3de6917a14a92e981228d5c4cf3f1dfc705b85a[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 14 12:26:12 2014 -0500
+
+    Refactor tests to correspond to text on the course website
+
+[33mcommit eef2c90a3d1149bcfb8eb7342bbeb080f05bc3e1[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 14 12:25:47 2014 -0500
+
+    Move app configuration into a separate file for clarity
+
+[33mcommit 503f498a223c0a5f523c779eab6dcce44914bc24[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 14 12:25:28 2014 -0500
+
+    Add extra event that is in the past
+
+[33mcommit 30698349d26c624a021d0b78a03743a4741fc5d9[m
+Merge: ab3de61 660063e
+Author: Kyle Jensen <kyle.jensen@yale.edu>
+Date:   Wed Nov 12 19:33:18 2014 -0500
+
+    Merge pull request #3 from mgt656/djtestfix
+    
+    Fix various tests
+
+[33mcommit 660063e1044973c4d811aa194b1b7e7a17e7fb04[m
+Author: xavid <dtjohnso@gmail.com>
+Date:   Wed Nov 12 15:38:47 2014 -0500
+
+    Fixed outstanding issues in test.js, needs merge
+
+[33mcommit ab3de61e9a0e0634cb63f3dc21dffcc47e3b12f9[m
+Author: xavid <dtjohnso@gmail.com>
+Date:   Tue Nov 11 22:03:37 2014 -0500
+
+    updates to use assert.ok (versus expect..to.be.ok) in test.js
+
+[33mcommit dbae3108ee21a2a00f79f8b8deff19afd3901dfd[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Nov 9 09:02:50 2014 -0500
+
+    Create separate test suite for tests that traverse all the pages. Closes #1.
+    
+    The problem here was that there was a single browser instance for the suite of tests and it was constantly browsing around. There is no reason to have a single browser per suite; it should instead be per test.
+    
+    This commit has some nice functions using the async library for making assertions across a number of pages easily.
+
+[33mcommit 3aa6a69d1c248516e8620e394e5a866b58fb2d0c[m
+Merge: 1e89bed 322ccfb
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 7 06:23:22 2014 -0500
+
+    Fix merge conflict
+
+[33mcommit 1e89bed48144607969ae5111d962bdcebbc043ea[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Nov 7 06:21:59 2014 -0500
+
+    Fix error due to refactoring and not rerunning tests :(
+
+[33mcommit 322ccfbc022b80c5174c1f17d6e553c00f6ddb0b[m
+Author: xavid <dtjohnso@gmail.com>
+Date:   Thu Nov 6 23:15:00 2014 -0500
+
+    Minor fix for mocha tests
+
+[33mcommit 4130125179dee771795dc710e9d3ba07dd2241bf[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 22:04:36 2014 -0500
+
+    Update README
+
+[33mcommit 76e81719086465ebbbb829eef5b6581e904448d1[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 22:00:21 2014 -0500
+
+    JSHint
+
+[33mcommit 5397b281f0fce01944861809e8852e5eb56a7b30[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 21:36:59 2014 -0500
+
+    Add link to create a new event to the index page
+
+[33mcommit a3025069a9fdb27063e4e66824681219e9d4a95c[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 21:35:45 2014 -0500
+
+    Test that users are able to RSVP
+
+[33mcommit f0dcaadbc22c00bf5d388b7e723a7dab5d505ebe[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 21:35:33 2014 -0500
+
+    Test that attendees are shown on event detail pages
+
+[33mcommit 92022c14413f5f5fe48344d357faf0a72c51f0d5[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 20:11:24 2014 -0500
+
+    Finish tests for event detail pages
+
+[33mcommit 616bf2e413364290422e32b0944d631df9f62ff5[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 20:11:09 2014 -0500
+
+    Add better gifs for default data
+
+[33mcommit e088e60b6d285c0ccad9025da64e0276ab6b54f1[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 16:27:45 2014 -0500
+
+    Work on event detail tests [WIP]
+
+[33mcommit 5307b50a0bd592a86b55ed714e1e4e0045e7742b[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 14:44:48 2014 -0500
+
+    Fix getById method
+
+[33mcommit d0435bd2e31bcb7f04968e7648c061053cdec8cd[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 14:13:06 2014 -0500
+
+    Start detail page tests [WIP]
+
+[33mcommit 8821503758201873c30cd562f6d51b13d54b5696[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 12:57:25 2014 -0500
+
+    Test that user is redirected to event detail page after creating a valid event
+
+[33mcommit 63dec3d251658e72bfea7793b87aabe0fe7a7487[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 12:56:44 2014 -0500
+
+    Use 1-based indexing for months on submission
+
+[33mcommit 3efe00d1457616aaa63f3e0aac21d44d7ccb9f68[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:45:04 2014 -0500
+
+    Add location attribute to the starter data
+
+[33mcommit 206bf6b2930f7eaaf45e2d93f287f8cf3bbff2ff[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:44:40 2014 -0500
+
+    Test the new event creation form
+
+[33mcommit ec37a7540b4dd58dde7238909feea5c69692d204[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:43:50 2014 -0500
+
+    Use same base site for all tests
+
+[33mcommit 1718b652e9625618ddc3445bf7cfad8c8af6e9ed[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:43:02 2014 -0500
+
+    Set NODE_ENV to testing when running tests
+
+[33mcommit 9dc6ed6734c30c0a0817602e81e818babd61e882[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:42:43 2014 -0500
+
+    Use bdd ui for mocha
+
+[33mcommit 0a2708c25a61f7384522f87d9d28b449f12c6b86[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:42:28 2014 -0500
+
+    Add better example code for form validation
+
+[33mcommit fb180baebbf7200e52cb34cead288d684316de00[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:41:25 2014 -0500
+
+    Remove unneeded logging statement
+
+[33mcommit 0d4c9e4153fa32d59d064f497921018b9f9994ad[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Nov 6 11:40:45 2014 -0500
+
+    Turn off express app logging turning tests
+
+[33mcommit ddc94d215cad00150affd85912acf3afa00000d5[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 20:48:56 2014 -0500
+
+    Add some date data students will find useful completing the project
+
+[33mcommit fc2df711ac2c75c4dda0ba9527943b486e06a8ce[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 20:47:27 2014 -0500
+
+    Add tests for form fields and labels for new event creation
+
+[33mcommit 4367de40ca09f0c3124c191adb3c87b614bc314e[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 06:41:13 2014 -0500
+
+    Add some clarifying comments to the main app file
+
+[33mcommit ee4af5715c7548fb26b6e434d6230353c314a459[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 06:40:56 2014 -0500
+
+    Add tests for the event creation page
+
+[33mcommit 10c5ea3919bb9da965fa15cbccee54223f4db144[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 06:40:32 2014 -0500
+
+    Add test for new event creation link on homepage
+
+[33mcommit 5b1b7889d88f7a1336c10750907e0dc08dc8b32e[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Wed Nov 5 06:40:16 2014 -0500
+
+    Fix test timeout error
+
+[33mcommit 6b01dd8d99c7f955192d2119f4da8a645f33fccb[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Nov 4 22:25:08 2014 -0500
+
+    Add tests for the about page
+
+[33mcommit d9313b9ff97574bb47cc511c93144a158ce052a4[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Nov 4 15:45:24 2014 -0500
+
+    Add test for searching events in the API
+
+[33mcommit 9a636c4ae737a8bb64dc5fe60479175be19c1d43[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Nov 4 11:17:21 2014 -0500
+
+    Add API tests
+
+[33mcommit 28c6fdf937a448a655593c3a50a04356a078e0a0[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Nov 4 09:39:28 2014 -0500
+
+    Add event list tests
+
+[33mcommit 2d354da2547f968958f8561f50a18a7757484c93[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Tue Nov 4 09:39:00 2014 -0500
+
+    Use mocha-better-spec-reporter for mocha
+
+[33mcommit 24966ef91fdb300446646a2b27e79a2be2532c32[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Nov 3 17:48:32 2014 -0500
+
+    Add test for <time> tag in event list
+
+[33mcommit c359dd6f49e04658d1fdc29ca543f3343bd671ba[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Nov 3 12:59:12 2014 -0500
+
+    Add strftime npm dep
+
+[33mcommit df059784b2cc26c84b4ff06b517cd16d5b3100c6[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Nov 3 12:58:38 2014 -0500
+
+    Add real datetimes to events
+
+[33mcommit 9056bad937e2fa3b66804e4d8f0d96ffb9fccf4f[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Nov 3 12:58:16 2014 -0500
+
+    Add nunjucks strftime filter
+
+[33mcommit 07c2e75b7fd93da9c6bd98277f2866a0f156c1c5[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Nov 3 11:09:01 2014 -0500
+
+    Add tests for project
+
+[33mcommit d161d496ec7258b196827612e3b520d574b1f6d6[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 20:47:53 2014 -0400
+
+    Fix test for /about links in footer
+
+[33mcommit 508510c148dc03188dfc2eb24cc29595b9f735d3[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 20:01:41 2014 -0400
+
+    Make JSHint not complain about single line expressions in tests
+
+[33mcommit 0579494916a9c05d018457fec63ab3be5cc75105[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 20:00:36 2014 -0400
+
+    JSHint
+
+[33mcommit 5fea13f0367701422277a093c055043a1dc62563[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 16:32:01 2014 -0400
+
+    Add test for /about link in footer
+
+[33mcommit ea6e6c47df0dbcb43c5cb7f4990e66267d384d0c[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 16:31:48 2014 -0400
+
+    Add /about link on event page
+
+[33mcommit ec4a6684c190ac33af7aeaa99d52841070859e49[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 16:31:29 2014 -0400
+
+    Create default gulp task
+
+[33mcommit 28c2810bbc585221a982057371673b6afc37b32e[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 10:38:14 2014 -0400
+
+    Lint code
+
+[33mcommit d4754377d14c2b7a4d2bd479a45cb21a61411992[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 10:38:09 2014 -0400
+
+    Use jshint-stylish jshint output
+
+[33mcommit 2405aadc40b286ab7dc0a9485d5357926c762432[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 10:01:01 2014 -0400
+
+    Linting
+
+[33mcommit 49f3ab1610d164f11b299abadb9732510b2eff77[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 10:00:54 2014 -0400
+
+    Add gulp and jshint
+
+[33mcommit f66893b5047df5c6951edbe6ec0520c963fcadbc[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Fri Oct 31 09:43:56 2014 -0400
+
+    Get Zombie working for tests
+
+[33mcommit bc8a1c9f1e56d84ef0cf3075a3d0d24572e497a7[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 20:49:07 2014 -0400
+
+    Fix typo
+
+[33mcommit 30dae933cff7b1219f1d26dfb2b483b868801cbe[m
+Merge: 364f91a 70f9446
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 16:30:38 2014 -0400
+
+    Merge remote-tracking branch 'origin'
+
+[33mcommit 364f91a61fa787679ae81bfc8447ea42f804f913[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 16:29:49 2014 -0400
+
+    Start testing using Zombie and Mocha [WIP]
+
+[33mcommit e233c411901de6b55ffbe56a1ebb877d7305ec55[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 16:18:15 2014 -0400
+
+    Clean up the views
+
+[33mcommit 5006910fbf0696cccab78bc3d8585364c34cd485[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 16:12:22 2014 -0400
+
+    Remove unused bin directory
+
+[33mcommit 7c9f24afd085994e94f96670c58079d799dea399[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 15:49:00 2014 -0400
+
+    Use a template fragment in the event view
+
+[33mcommit ec6981627f423437f2d0df6ab9661274f40d13e7[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 15:48:49 2014 -0400
+
+    Refactor controllers and event model for consistency
+
+[33mcommit f75227fa81ea43f9aaa78ab117057aec50e0c964[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 15:06:26 2014 -0400
+
+    Add nice message when form is submitted with an error
+
+[33mcommit c03ee915e2a7c564685e8b45550a186c233eec48[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 15:05:27 2014 -0400
+
+    Add tests [WIP]
+
+[33mcommit 4534156fc9337248e313eed9568baaa87e61b3eb[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Thu Oct 30 15:03:04 2014 -0400
+
+    Use PORT from environment for server
+
+[33mcommit 70f9446e5723775cb6f9b09feedca1cdd9bb3f46[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Oct 18 07:10:59 2014 -0400
+
+    Update documentation
+
+[33mcommit b35e44b1d3a1747bffde7f6f73c8fb43e017882a[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Mon Oct 6 14:42:48 2014 -0400
+
+    Remove express validator
+
+[33mcommit 6a91d8947b674dfabc0c9886855abb2577492aad[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Oct 5 21:19:47 2014 -0400
+
+    Add comments
+
+[33mcommit beb19dfaad573b106121f9057ad22df4d9503c06[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Oct 5 21:00:04 2014 -0400
+
+    Add documentation on dependencies
+
+[33mcommit 333016fb1d2e024146371d7b7bf944e38c68e731[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Oct 5 15:17:25 2014 -0400
+
+    Include a header on all pages. Show example of overriding it.
+
+[33mcommit a1694631756f72ee684935cfe3d27cc42e5aa76f[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sun Oct 5 15:17:11 2014 -0400
+
+    Add form for creating new events and basic validation.
+
+[33mcommit f3d9ee5d614a3602165c5ef2f64fc670091bdccd[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Oct 4 21:13:16 2014 -0400
+
+    Add links to /about and /events on index view
+
+[33mcommit 2e03fb640cb3fe0c0c331ca63034bdd40a3104c8[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Oct 4 21:12:53 2014 -0400
+
+    Add readme
+
+[33mcommit 9fc635cda2c17c915ae79de496f3c6559efa33f9[m
+Author: Kyle L. Jensen <kljensen@gmail.com>
+Date:   Sat Oct 4 20:35:29 2014 -0400
+
+    Initial commit
